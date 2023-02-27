@@ -8,8 +8,6 @@
 ' Styling
 ' ##################################
 
-!define TECHN_FONT_SIZE 12
-
 skinparam defaultTextAlignment center
 
 skinparam wrapWidth 200
