@@ -5,8 +5,9 @@
 !define KUBERNETES_BORDER_COLOR #3C7FC0
 !define KUBERNETES_SYMBOL_COLOR KUBERNETES_COLOR
 
-' Styling
 ' ##################################
+
+!define TECHN_FONT_SIZE 12
 
 skinparam defaultTextAlignment center
 
